@@ -1,11 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Nitya Pandey</h1>
 <h3 align="center">An enthusisatic learner and a budding developer!</h3>
 
-
-<p align="center"> Visitor count</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{nityaa3009}/count.svg" alt="nityaa3009 :: Visitor's Count" />
-</p>
+<br>
 
 
 
