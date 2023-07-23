@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1CcNyGDQ_hS-v099-fK4efDEYHe28TO7Z&export=download" />
+</p>
+
+
 <h1 align="center">Hey there 👋, I'm Nitya Pandey</h1>
 <h3 align="center">An enthusisatic learner and a budding developer!</h3>
 
