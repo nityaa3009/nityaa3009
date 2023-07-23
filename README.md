@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/nityaa3009/nityaa3009/assets/121478792/95b3435f-ea23-4b94-b26b-fcd9fbdbd300" />
+  <img src="https://github.com/nityaa3009/nityaa3009/assets/121478792/c84ba69d-c698-4e7f-9f17-4b48adc63dfb" width="100%" />
 </p>
 
 
-<h1 align="center">Hey there 👋, I'm Nitya Pandey</h1>
-<h3 align="center">An enthusisatic learner and a budding developer!</h3>
+<h1 align="left">Hello 👋, I'm Nitya Pandey</h1>
+<h3 align="left">An enthusisatic learner and a budding developer!</h3>
 
 <br>
 
