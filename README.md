@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1CcNyGDQ_hS-v099-fK4efDEYHe28TO7Z&export=download" />
+  <img src="https://github.com/nityaa3009/nityaa3009/assets/121478792/95b3435f-ea23-4b94-b26b-fcd9fbdbd300" />
 </p>
 
 
