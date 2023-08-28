@@ -16,7 +16,7 @@
 - 🎓 I’m **a B.Tech undergrad from Faculty of Engineering and Technology, University of Lucknow🏫**
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 Contact me **nityapandey3031@@gmail.com**
+- 📫 Contact me **nityapandey3031@gmail.com**
 - 😄 Pronouns: **She/Her**
 
 
